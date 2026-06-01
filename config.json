@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggervalculate",
+        "uuid": 6720780,
+        "checksum": "0wajfp"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
